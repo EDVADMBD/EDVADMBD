@@ -8,4 +8,5 @@ Contatos
   [LINKDIN](https://www.linkedin.com/in/edvaldo-dias-da-silva-5b763423/)
    EMAIL: edvdias01@gmail.com
   Github: https://github.com/EDVADMBD
+  Perfil no dio: https://web.dio.me/users/edvdias01?tab=achievements
 --->
