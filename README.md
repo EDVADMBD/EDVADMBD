@@ -1,12 +1,29 @@
-Sou Edvaldo Dias da Silva, e minha atuação profissional está voltada para áreas de tecnologia e projetos de TI. Trabalho com gerenciamento e execução de mudanças em sistemas e infraestruturas, focando na melhoria de desempenho e resolução de incidentes. - 👋 
-  Habilidades e  Frameworks
- ; Github e GIT
- 
-- 🌱Banco de dados : sql; " #PHYTON"; google colab
+# Edvaldo Dias da Silva
 
-Contatos
-  [LINKDIN](https://www.linkedin.com/in/edvaldo-dias-da-silva-5b763423/)
-   EMAIL: edvdias01@gmail.com
-  Github: https://github.com/EDVADMBD
-  Perfil no dio: https://web.dio.me/users/edvdias01?tab=achievements
---->
+Bem-vindo ao meu perfil! Sou Edvaldo Dias da Silva, um profissional apaixonado por tecnologia e projetos de TI, com experiência em gerenciamento e implementação de mudanças em sistemas e infraestruturas. Meu foco principal é a melhoria de desempenho e a resolução eficiente de incidentes.
+
+## 🚀 Habilidades e Tecnologias
+
+- **Gerenciamento de Projetos de TI**
+- **Implementação de Mudanças em Sistemas**
+- **Infraestrutura de TI**
+- **Resolução de Incidentes**
+- **Versionamento de Código**: GitHub, GIT
+- **Banco de Dados**: SQL
+- **Linguagens de Programação**: Python
+- **Plataformas**: Google Colab
+
+## 🌱 Em Desenvolvimento
+
+Estou continuamente aprimorando minhas habilidades em Python e colaborando em projetos de análise de dados e automação.
+
+## 📫 Contatos
+
+- **LinkedIn**: [Meu Perfil](https://www.linkedin.com/in/seu-perfil-linkedin/)
+- **E-mail**: edvdias01@gmail.com
+- **GitHub**: [EDVADMBD](https://github.com/EDVADMBD)
+- **Perfil na DIO**: [Edvaldo na DIO](https://web.dio.me/users/edvdias01?tab=achievements)
+
+---
+
+Sempre aberto a novas oportunidades e desafios no campo da tecnologia. Vamos nos conectar e trocar conhecimentos!--->
