@@ -19,7 +19,7 @@ Estou continuamente aprimorando minhas habilidades em Python e colaborando em pr
 
 ## 📫 Contatos
 
-- **LinkedIn**: [Meu Perfil](https://www.linkedin.com/in/seu-perfil-linkedin/)
+- **LinkedIn**: [Meu Perfil][(https://www.linkedin.com/in/seu-perfil-linkedin/)](https://www.linkedin.com/in/edvaldo-dias-da-silva-5b763423/)
 - **E-mail**: edvdias01@gmail.com
 - **GitHub**: [EDVADMBD](https://github.com/EDVADMBD)
 - **Perfil na DIO**: [Edvaldo na DIO](https://web.dio.me/users/edvdias01?tab=achievements)
