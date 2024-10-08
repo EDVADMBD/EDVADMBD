@@ -13,6 +13,14 @@ Bem-vindo ao meu perfil! Sou Edvaldo Dias da Silva, um profissional apaixonado p
 - **Linguagens de Programação**: Python
 - **Plataformas**: Google Colab
 
+===Sobre Mim
+Formação      acadêmica: Graduação (ciências da Computação), pós-graduação (sistemas      de Informação) , cursos relevantes (Analista de dados- EBAC)
+Experiência      profissional: Analista de      processos – Gestão de Mudança na SKY BRASIL LTDA. Projeto: Migração das bases de banco de dados  onprimisse para para arquitetura OCI.
+Habilidades      técnicas: Linguagens de programação (Python, R, SQL), ferramentas      (Pandas, NumPy, Scikit-learn), bancos de dados, visualização de dados (SQL,      Power BI).
+Habilidades comportamentais: Trabalho em equipe, comunicação, resolução de problemas
+
+
+
 ## 🌱 Em Desenvolvimento
 
 Estou continuamente aprimorando minhas habilidades em Python e colaborando em projetos de análise de dados e automação.
