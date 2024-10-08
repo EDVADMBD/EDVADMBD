@@ -25,6 +25,40 @@ Habilidades comportamentais: Trabalho em equipe, comunicação, resolução de p
 
 Estou continuamente aprimorando minhas habilidades em Python e colaborando em projetos de análise de dados e automação.
 
+### Portifólio de projetos: 
+
+ ## 01-Título: S.OS – Rio Grande do Sul – Maio_2024
+Descrição: Desenvolvimento de código de exploração de dados para identificar as cidades que mais receberam doações encaminhadas pela Defesa Civil
+Link para o repositório:   https://github.com/EDVADMBD/SOS-RGS
+Visualizações:  Para tornar os resultados mais compreensíveis, o código  inclui visualizações gráficas, como gráficos de barras ou mapas, mostrando as principais cidades em 
+termos de recebimento de doações.
+Impacto: O código foi projetado para permitir interatividade, como filtragem por período de tempo ou tipo de doação, possibilitando uma exploração mais detalhada dos dados.  Direcionando com mais fluidez os donativos para as cidades afetadas
+
+## 02-Título: UTILIDADE_PUBLICA – Agosto_2024
+Descrição: Casos de dengue divulgados pela a secretária de Vigilância em Saúde do segundo o Ministério da Saúde
+Link para o repositório:  https://github.com/EDVADMBD/UTILIDADE_PUBLICA
+Visualizações:  Para abordar os casos de dengue, utilizamos um código de base analítica com o objetivo de identificar casos atuais e realizar projeções futuras
+Impacto:  Este método visa não apenas compreender a atual situação epidemiológica, mas também implementar estratégias de prevenção eficazes, ajudando a antecipar e mitigar futuros surto
+
+## 03-Título: Segmentação de Clientes - Agosto_2024
+Descrição:  Otimizar a experiência de clientes e maximizar as vendas de um Shopping. Nesse projeto, criamos uma segmentação de clientes precisa utilizando técnicas de clusterização e uma arquitetura de dados sólida.
+Link para o repositório:   https://github.com/EDVADMBD/Segmenta-o-de-Clientes
+Visualizações:   Com a segmentação de clientes implementada, o Shopping agora tem a capacidade de fazer ajustes contínuos e melhorar ainda mais sua operação. Além de aumentar o engajamento, a arquitetura de dados permite que a equipe de marketing analise tendências e preveja comportamentos futuros, garantindo que o shopping continue a ser um destino atrativo para todos os perfis de consumidores com insights  gráficos,
+Impacto:  Relação dos dados detalhadas para cada grupo de clientes, cada um com características distintas, necessidades e padrões de compra.
+
+## 04-Título: Condições Climáticas - Setembro_2024
+Descrição: Análise de dados por em [região] para identificar padrões, causas e áreas mais vulneráveis nos dois extremos climático ( queimadas e Geadas)
+Link para o repositório:  https://github.com/EDVADMBD/QUEIMADAS ; https://github.com/EDVADMBD/GEADAS
+Visualizações:  O gráfico foi criado utilizando plotly.express.scatter_geo. As temperaturas em ambos os extremos s são representadas por núcleos, e o tamanho dos marcadores é escalado de acordo com a magnitude da temperatura. Ajuste do Layout:
+Impacto:  O objetivo dos projetos é visualizar as temperaturas registradas em diversos bairros da cidade de São Paulo, utilizando um gráfico de dispersão geográfica. As temperaturas são representadas por círculos, cujo tamanho é proporcional à intensidade da temperatura mínima registrada.
+
+## 05-Título: COMBATE A PIRATARIA - Outubro_2024
+Descrição:  Plano de ação visa combater a pirataria digital em diversas frentes, utilizando técnicas de coleta de dados, preparação e segmentação, além de construir uma infraestrutura robusta para identificar e mitigar os impactos causados pela pirataria
+Link para o repositório:   https://github.com/EDVADMBD/COMBATE
+Visualizações:  Este plano pode ser usado por equipes de TI, Segurança e Jurídico como guia prático para implementar ações contra a pirataria. Cada etapa deve ser acompanhada de ferramentas e processos específicos para assegurar que os dados coletados e processados sejam aplicados de forma estratégica
+Impacto:  Garantir que a empresa tenha uma infraestrutura sólida para armazenar e processar esses dados com segurança.
+
+
 ## 📫 Contatos
 
 - **LinkedIn**: [Meu Perfil][(https://www.linkedin.com/in/seu-perfil-linkedin/)](https://www.linkedin.com/in/edvaldo-dias-da-silva-5b763423/)
