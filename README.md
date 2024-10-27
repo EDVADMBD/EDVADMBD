@@ -58,13 +58,18 @@ Link para o repositório:   https://github.com/EDVADMBD/COMBATE
 Visualizações:  Este plano pode ser usado por equipes de TI, Segurança e Jurídico como guia prático para implementar ações contra a pirataria. Cada etapa deve ser acompanhada de ferramentas e processos específicos para assegurar que os dados coletados e processados sejam aplicados de forma estratégica
 Impacto:  Garantir que a empresa tenha uma infraestrutura sólida para armazenar e processar esses dados com segurança.
 
+## 06- Insights do mercado de trabalho com tecnologia de IA - Outubro_2024
+Descrição:  Uma análise profunda das tendências, demandas e mudanças no mercado de trabalho usando inteligência artificial para processamento e interpretação de dados. Num contexto de rápida transformação digital, a ideia central é identificar quais habilidades, qualificações e perfis de trabalho estão em alta e quais setores têm maior potencial de crescimento.
+Link para o repositório: https://github.com/EDVADMBD/tecnologia-de-IA/blob/main/TEC_IA.ipynb
+Visualizações: Destacam as principais tendências, permitindo que os profissionais identifiquem as habilidades mais valorizadas e as regiões com maiores oportunidades.
+
 
 ## 📫 Contatos
 
 - **LinkedIn**: [Meu Perfil][(https://www.linkedin.com/in/seu-perfil-linkedin/)](https://www.linkedin.com/in/edvaldo-dias-da-silva-5b763423/)
 - **E-mail**: edvdias01@gmail.com
 - **GitHub**: [EDVADMBD](https://github.com/EDVADMBD)
-- **Perfil na DIO**: [Edvaldo na DIO](https://web.dio.me/users/edvdias01?tab=achievements)
+-
 
 ---
 
