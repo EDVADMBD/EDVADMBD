@@ -40,6 +40,7 @@ Impacto: O código foi projetado para permitir interatividade, como filtragem p
 Descrição: Casos de dengue divulgados pela a secretária de Vigilância em Saúde do segundo o Ministério da Saúde
 
 Link para o repositório:  https://github.com/EDVADMBD/UTILIDADE_PUBLICA
+
 Visualizações:  Para abordar os casos de dengue, utilizamos um código de base analítica com o objetivo de identificar casos atuais e realizar projeções futuras
 
 Impacto:  Este método visa não apenas compreender a atual situação epidemiológica, mas também implementar estratégias de prevenção eficazes, ajudando a antecipar e mitigar futuros surto
