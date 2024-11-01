@@ -84,6 +84,6 @@ Visualizações: Destacam as principais tendências, permitindo que os profissio
 - **GitHub**: [EDVADMBD](https://github.com/EDVADMBD)
 -
 
----
+---442042506714
 
 Sempre aberto a novas oportunidades e desafios no campo da tecnologia. Vamos nos conectar e trocar conhecimentos!--->
