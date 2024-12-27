@@ -27,7 +27,7 @@ Estou continuamente aprimorando minhas habilidades em Python e colaborando em pr
 
 ### Portifólio de projetos: 
 
-## 07- Emissões de CO₂ e o Encontro doS Paises do G20.
+## 07- Emissões de CO₂ e o Encontro doS Paises do G20 - Dezembro_2024
 Descrição: G20 – um fórum internacional que reúne as 19 maiores economias do mundo e a União Europeia – tem se tornado um palco crucial para discutir ações globais que visam a redução das emissões de gases de efeito estufa.
 
 Link para o repositório: https://github.com/EDVADMBD/G20_CLIMA
