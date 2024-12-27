@@ -27,6 +27,13 @@ Estou continuamente aprimorando minhas habilidades em Python e colaborando em pr
 
 ### Portifólio de projetos: 
 
+## 07- Emissões de CO₂ e o Encontro doS Paises do G20.
+Descrição: G20 – um fórum internacional que reúne as 19 maiores economias do mundo e a União Europeia – tem se tornado um palco crucial para discutir ações globais que visam a redução das emissões de gases de efeito estufa.
+
+Link para o repositório: https://github.com/EDVADMBD/G20_CLIMA
+
+Visualizações: visualizações de dados para ilustrar os desafios, avanços e compromissos relacionados às emissões de CO₂ e o encontro do G20. 
+
 ## 06- Insights do mercado de trabalho com tecnologia de IA - Outubro_2024
 Descrição:  Uma análise profunda das tendências, demandas e mudanças no mercado de trabalho usando inteligência artificial para processamento e interpretação de dados. Num contexto de rápida transformação digital, a ideia central é identificar quais habilidades, qualificações e perfis de trabalho estão em alta e quais setores têm maior potencial de crescimento.
 
