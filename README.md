@@ -37,7 +37,7 @@ Visualizações: visualizações de dados para ilustrar os desafios, avanços e 
 ## 06- Insights do mercado de trabalho com tecnologia de IA - Outubro_2024
 Descrição:  Uma análise profunda das tendências, demandas e mudanças no mercado de trabalho usando inteligência artificial para processamento e interpretação de dados. Num contexto de rápida transformação digital, a ideia central é identificar quais habilidades, qualificações e perfis de trabalho estão em alta e quais setores têm maior potencial de crescimento.
 
-Link para o repositório: https://github.com/EDVADMBD/tecnologia-de-IA/blob/main/TEC_IA.ipynb
+Link para o repositório: [https://github.com/EDVADMBD/tecnologia-de-IA/blob/main/TEC_IA.ipynb](https://github.com/EDVADMBD/tecnologia-de-IA/blob/main/README.md)
 
 Visualizações: Destacam as principais tendências, permitindo que os profissionais identifiquem as habilidades mais valorizadas e as regiões com maiores oportunidades.
 
