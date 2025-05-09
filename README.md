@@ -27,6 +27,15 @@ Estou continuamente aprimorando minhas habilidades em Python e colaborando em pr
 
 ### Portifólio de projetos: 
 
+## 08- Análise dos Países com Maiores Índices de Segurança em Acidentes Aéreos
+Descrição: A segurança aérea é um fator essencial na avaliação da aviação global, e a classificação dos países quanto à segurança em acidentes aéreos pode nos proporcionar uma visão clara sobre as regiões mais seguras para os viajantes
+A segurança aérea é um fator essencial na avaliação da aviação global, e a classificação dos países quanto à segurança em acidentes aéreos pode nos proporcionar uma visão clara sobre as regiões mais seguras para os viajantes
+
+Link para o repositório:
+https://github.com/EDVADMBD/ACIDENTES_AEREOS
+
+Visualizações: A análise a seguir explora os índices de segurança em acidentes aéreos de 17 países, destacando os 15 países com os melhores desempenhos.
+
 ## 07- Emissões de CO₂ e o Encontro doS Paises do G20 - Dezembro_2024
 Descrição: G20 – um fórum internacional que reúne as 19 maiores economias do mundo e a União Europeia – tem se tornado um palco crucial para discutir ações globais que visam a redução das emissões de gases de efeito estufa.
 
