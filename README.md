@@ -23,11 +23,11 @@ Habilidades comportamentais: Trabalho em equipe, comunicação, resolução de p
 
 ## 🌱 Em Desenvolvimento
 
-Estou continuamente aprimorando minhas habilidades em Python e colaborando em projetos de análise de dados e automação.
+Estou continuamente aprimorando minhas habilidades em Python; Banco de dados e IA e colaborando em projetos de análise de dados e automação.
 
 ### Portifólio de projetos: 
 
-## 08- Análise dos Países com Maiores Índices de Segurança em Acidentes Aéreos
+## 08- Análise dos Países com Maiores Índices de Segurança em Acidentes Aéreos - Fevereiro_2025
 Descrição: A segurança aérea é um fator essencial na avaliação da aviação global, e a classificação dos países quanto à segurança em acidentes aéreos pode nos proporcionar uma visão clara sobre as regiões mais seguras para os viajantes
 A segurança aérea é um fator essencial na avaliação da aviação global, e a classificação dos países quanto à segurança em acidentes aéreos pode nos proporcionar uma visão clara sobre as regiões mais seguras para os viajantes
 
