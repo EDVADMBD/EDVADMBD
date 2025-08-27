@@ -27,6 +27,14 @@ Estou continuamente aprimorando minhas habilidades em Python; Banco de dados e I
 
 ### Portifólio de projetos: 
 
+## 09- dashboard interativo Banco de Sangue com visualizações dos dados do arquivo dados_pacientes.csv- Agosto_2025
+
+Descrição: Este projeto apresenta uma análise exploratória de um conjunto de dados fictício de pacientes, com o objetivo de visualizar padrões demográficos e biométricos. Através de gráficos gerados com Python e bibliotecas como Pandas, Matplotlib e Seaborn, é possível obter insights sobre a distribuição de características dos pacientes e suas correlações.
+
+Link para o repositório:
+https://github.com/EDVADMBD/Banco-de-Sangue-Dados-de-Pacientes
+
+
 ## 08- Análise dos Países com Maiores Índices de Segurança em Acidentes Aéreos - Fevereiro_2025
 Descrição: A segurança aérea é um fator essencial na avaliação da aviação global, e a classificação dos países quanto à segurança em acidentes aéreos pode nos proporcionar uma visão clara sobre as regiões mais seguras para os viajantes
 A segurança aérea é um fator essencial na avaliação da aviação global, e a classificação dos países quanto à segurança em acidentes aéreos pode nos proporcionar uma visão clara sobre as regiões mais seguras para os viajantes
