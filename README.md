@@ -27,6 +27,13 @@ Estou continuamente aprimorando minhas habilidades em Python; Banco de dados e I
 
 ### Portifólio de projetos: 
 
+
+##10- Compara-o-Streaming - Outubro_2025
+Descrição: Projeto inicial em Python para coletar e comparar preços de serviços de streaming
+
+Link para o repositório:
+https://github.com/EDVADMBD/Compara-o-Streaming/blob/main/README.md
+
 ## 09- dashboard interativo Banco de Sangue com visualizações dos dados do arquivo dados_pacientes.csv- Agosto_2025
 
 Descrição: Este projeto apresenta uma análise exploratória de um conjunto de dados fictício de pacientes, com o objetivo de visualizar padrões demográficos e biométricos. Através de gráficos gerados com Python e bibliotecas como Pandas, Matplotlib e Seaborn, é possível obter insights sobre a distribuição de características dos pacientes e suas correlações.
