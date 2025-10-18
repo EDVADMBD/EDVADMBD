@@ -29,7 +29,7 @@ Estou continuamente aprimorando minhas habilidades em Python; Banco de dados e I
 
 
 ## 10- Compara-o-Streaming - Outubro_2025
-Descrição: Projeto inicial em Python para coletar e comparar preços de serviços de streaming
+Descrição: Desenvolvendo ciencia de dados ,um projeto em Python que coleta dados de serviços de streaming (Netflix, Disney+, Prime Video, HBO Max, Globoplay), padroniza informações sobre planos e preços, e gera comparativos interativos.
 
 Link para o repositório:
 https://github.com/EDVADMBD/Compara-o-Streaming/blob/main/README.md
