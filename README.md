@@ -28,7 +28,7 @@ Estou continuamente aprimorando minhas habilidades em Python; Banco de dados e I
 ### Portifólio de projetos: 
 
 
-##10- Compara-o-Streaming - Outubro_2025
+## 10- Compara-o-Streaming - Outubro_2025
 Descrição: Projeto inicial em Python para coletar e comparar preços de serviços de streaming
 
 Link para o repositório:
