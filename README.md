@@ -28,6 +28,17 @@ Estou continuamente aprimorando minhas habilidades em Python; Banco de dados e I
 ### Portifólio de projetos: 
 
 
+## 12- Próximo projeto (Cientista Pensando>>>>>)
+
+
+
+## 11- comercialização de produtos - CEAGESP - Novembro_2025
+Descrição:Um conjunto de dados brutos sobre a comercialização de produtos no maior entreposto da América Latina, a CEAGESP
+
+Link para o repositório:
+[https://github.com/EDVADMBD/Compara-o-Streaming/blob/main/README.md](https://github.com/EDVADMBD/ceagesp/blob/main/Ceagesp_.ipynb
+
+
 ## 10- Compara-o-Streaming - Outubro_2025
 Descrição: Desenvolvendo ciencia de dados ,um projeto em Python que coleta dados de serviços de streaming (Netflix, Disney+, Prime Video, HBO Max, Globoplay), padroniza informações sobre planos e preços, e gera comparativos interativos.
 
