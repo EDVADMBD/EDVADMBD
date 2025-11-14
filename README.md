@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil! Sou Edvaldo Dias da Silva, um profissional apaixonado p
 ### Sobre Mim
 Formação      acadêmica: Graduação (ciências da Computação), pós-graduação (sistemas      de Informação) , cursos relevantes (Analista de dados- EBAC)
 Experiência      profissional: Analista de      processos – Gestão de Mudança na SKY BRASIL LTDA. Projeto: Migração das bases de banco de dados  onprimisse para para arquitetura OCI.
-Habilidades      técnicas: Linguagens de programação (Python, R, SQL), ferramentas      (Pandas, NumPy, Scikit-learn), bancos de dados, visualização de dados (SQL,      Power BI).
+Habilidades      técnicas: Linguagens de programação (Python,SQL), ferramentas      (Pandas, NumPy, Scikit-learn), bancos de dados, visualização de dados (SQL,      Power BI).
 Habilidades comportamentais: Trabalho em equipe, comunicação, resolução de problemas
 
 
