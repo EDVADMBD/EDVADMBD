@@ -8,6 +8,7 @@ Bem-vindo ao meu perfil! Sou Edvaldo Dias da Silva, um profissional apaixonado p
 - **Implementação de Mudanças em Sistemas**
 - **Infraestrutura de TI**
 - **Resolução de Incidentes**
+- **Analise de dados**
 - **Versionamento de Código**: GitHub, GIT
 - **Banco de Dados**: SQL
 - **Linguagens de Programação**: Python
