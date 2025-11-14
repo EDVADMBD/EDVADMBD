@@ -1,6 +1,6 @@
 # Edvaldo Dias da Silva
 
-Bem-vindo ao meu perfil! Sou Edvaldo Dias da Silva, um profissional apaixonado por tecnologia e projetos de TI, com experiência em gerenciamento e implementação de mudanças em sistemas e infraestruturas. Meu foco principal é a melhoria de desempenho e a resolução eficiente de incidentes.
+Bem-vindo ao meu perfil! Sou Edvaldo Dias da Silva, um profissional apaixonado por tecnologia e projetos de TI, com experiência em gerenciamento e implementação de mudanças em sistemas e infraestruturas. Meu foco principal é a melhoria de desempenho e a resolução eficiente em análise de dados.
 
 ## 🚀 Habilidades e Tecnologias
 
