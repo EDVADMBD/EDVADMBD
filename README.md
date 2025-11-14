@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil! Sou Edvaldo Dias da Silva, um profissional apaixonado p
 - **Versionamento de Código**: GitHub, GIT
 - **Banco de Dados**: SQL
 - **Linguagens de Programação**: Python
-- **Plataformas**: Google Colab
+- **Plataformas**: Google Cloud, AWS e Azure
 
 ### Sobre Mim
 Formação      acadêmica: Graduação (ciências da Computação), pós-graduação (sistemas      de Informação) , cursos relevantes (Analista de dados- EBAC)
