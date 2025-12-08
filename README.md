@@ -37,7 +37,7 @@ Estou continuamente aprimorando minhas habilidades em Python; Banco de dados e I
 Descrição:Um conjunto de dados brutos sobre a comercialização de produtos no maior entreposto da América Latina, a CEAGESP
 
 Link para o repositório:
-[https://github.com/EDVADMBD/Compara-o-Streaming/blob/main/README.md](https://github.com/EDVADMBD/ceagesp/blob/main/Ceagesp_.ipynb
+https://github.com/EDVADMBD/ceagesp/blob/main/Ceagesp_.ipynb
 
 
 ## 10- Compara-o-Streaming - Outubro_2025
