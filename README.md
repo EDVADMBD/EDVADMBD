@@ -82,7 +82,7 @@ Descrição: Plano de ação para combater pirataria digital com coleta e segmen
 ---
 
 ### 04 - Condições Climáticas (Set/2024)
-Descrição: Análise de padrões climáticos extremos (queimadas e  geadas).  
+Descrição: Análise de padrões climáticos extremos (queimadas e  'geadas').  
 [![Acessar Projeto](https://img.shields.io/badge/Projeto-Clima-blue?style=for-the-badge)](https://github.com/EDVADMBD/QUEIMADAS)  
 [![Acessar Projeto](https://img.shields.io/badge/Projeto-Clima-blue?style=for-the-badge)](https://github.com/EDVADMBD/GEADAS)
 
