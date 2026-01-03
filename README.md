@@ -29,9 +29,13 @@ Estou continuamente aprimorando minhas habilidades em Python; Banco de dados e I
 ### Portifólio de projetos: 
 
 
-## 12- Próximo projeto (Cientista Pensando>>>>>)
+## 13- Próximo projeto (Cientista Pensando>>>>>)
 
+## 12- Fraude - Prevção de transações suspeitas - Janeiro_2026
+Descrição: O projeto de fraudes foi criado para detectar e prevenir transações suspeitas em tempo real, garantindo segurança e confiança para clientes e operações da empresa.
 
+Link para o repositório:
+https://github.com/EDVADMBD/Fraudes/blob/main/README.md
 
 ## 11- comercialização de produtos - CEAGESP - Novembro_2025
 Descrição:Um conjunto de dados brutos sobre a comercialização de produtos no maior entreposto da América Latina, a CEAGESP
