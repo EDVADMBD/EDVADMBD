@@ -31,8 +31,8 @@ Estou continuamente aprimorando minhas habilidades em Python, Banco de Dados e I
 
 ### 14 - Próximo projeto (Cientista Pensando >>>>>)
 
-### 13 -Feminicidio - Os dados de 2025 revelam um recorde histórico: o Brasil atingiu a marca de 1.470 feminicídios.(Março/2026)
-Descrição: Detectar e prevenir transações suspeitas em tempo real.  
+### 13 -Feminicidio -(Março/2026)
+Descrição:  Os dados de 2025 revelam um recorde histórico: o Brasil atingiu a marca de 1.470 feminicídios. 
 [![Acessar Projeto]https://github.com/EDVADMBD/feminic-dio-?tab=readme-ov-filegit
 
 ### 12 - Fraude - Prevenção de transações suspeitas (Jan/2026)
