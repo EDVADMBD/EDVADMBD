@@ -34,7 +34,8 @@ Estou continuamente aprimorando minhas habilidades em Python, Banco de Dados e I
 ### 13 -Feminicidio -(Março/2026)
 Descrição:  Os dados de 2025 revelam um recorde histórico: o Brasil atingiu a marca de 1.470 feminicídios.
 
-[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EDVADMBD/feminic-dio-?tab=readme-ov-filegit)
+[![Projeto](https://img.shields.io/badge/Projeto-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EDVADMBD/feminic-dio-?tab=readme-ov-filegit)
+[![Nome](https://img.shields.io/badge/Nome-555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EDVADMBD/feminic-dio-?tab=readme-ov-filegit)
 
 ### 12 - Fraude - Prevenção de transações suspeitas (Jan/2026)
 Descrição: Detectar e prevenir transações suspeitas em tempo real.  
